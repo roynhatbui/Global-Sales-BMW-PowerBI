@@ -47,6 +47,9 @@ The goal of this project was to demonstrate how **data preprocessing, DAX measur
 ---
 
 ## 🖼️ Dashboard Preview  
-*(Insert screenshot of your dashboard here)*  
+
+![BMW Global Sales Dashboard](./dashboardimages/Dashboard1.png)
+![BMW Global Sales Dashboard](./dashboardimages/Dashboard2.png)
+![BMW Global Sales Dashboard](./dashboardimages/Dashboard3.png)
 
 
